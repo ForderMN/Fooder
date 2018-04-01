@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fooder</string>
+    <string name="slogan">Order and take it!</string>
+    <string name="signUpButton">Sign Up</string>
+    <string name="signInButton">Sign In</string>
+    <string name="phoneNum">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="userName">User Name</string>
+</resources>
